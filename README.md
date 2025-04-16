@@ -58,3 +58,11 @@ Returns a downloadable CSV with a new column: email_text.
 
 ## 📸 Screenshots
 ![App Screenshot](output.png)
+
+## 🔐 License
+
+This project is **not open-source**. The code in this repository is provided for viewing and discussion purposes only.
+
+All rights are reserved by the author. Commercial or personal use, redistribution, or modification is strictly prohibited without written permission.
+
+For inquiries, contact: siddharth.goradia@icloud.com
