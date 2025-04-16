@@ -57,4 +57,4 @@ The uploaded CSV must include:
 Returns a downloadable CSV with a new column: email_text.
 
 ## 📸 Screenshots
-![Stremlit_Ouput](Screenshot 2025-04-16 at 12.46.07 PM.png)
+![App Screenshot](output.png)
